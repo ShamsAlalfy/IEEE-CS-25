@@ -1,0 +1,3 @@
+﻿  E - Keyboard.cpp
+C:\Users\shams\OneDrive\Desktop\IEEE-CS-25\Task1\E - Keyboard\E - Keyboard\E - Keyboard.cpp(17,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  E - Keyboard.vcxproj -> C:\Users\shams\OneDrive\Desktop\IEEE-CS-25\Task1\E - Keyboard\x64\Debug\E - Keyboard.exe

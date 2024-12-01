@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shams\\OneDrive\\Desktop\\IEEE-CS-25\\Task1\\E - Keyboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{419AE37F-8234-4A0B-876F-02BC32FE3CB0}|E - Keyboard\\E - Keyboard.vcxproj|C:\\Users\\shams\\OneDrive\\Desktop\\IEEE-CS-25\\Task1\\E - Keyboard\\E - Keyboard\\E - Keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{419AE37F-8234-4A0B-876F-02BC32FE3CB0}|E - Keyboard\\E - Keyboard.vcxproj|solutionrelative:E - Keyboard\\E - Keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E - Keyboard.cpp",
+              "DocumentMoniker": "C:\\Users\\shams\\OneDrive\\Desktop\\IEEE-CS-25\\Task1\\E - Keyboard\\E - Keyboard\\E - Keyboard.cpp",
+              "RelativeDocumentMoniker": "E - Keyboard\\E - Keyboard.cpp",
+              "ToolTip": "C:\\Users\\shams\\OneDrive\\Desktop\\IEEE-CS-25\\Task1\\E - Keyboard\\E - Keyboard\\E - Keyboard.cpp*",
+              "RelativeToolTip": "E - Keyboard\\E - Keyboard.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T16:22:58.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
