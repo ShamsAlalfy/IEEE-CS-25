@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\D - Balanced Team\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D569F39-C4CC-44FA-A1D6-910F451A17AD}|D - Balanced Team\\D - Balanced Team.vcxproj|D:\\D - Balanced Team\\D - Balanced Team\\D - Balanced Team.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D569F39-C4CC-44FA-A1D6-910F451A17AD}|D - Balanced Team\\D - Balanced Team.vcxproj|solutionrelative:D - Balanced Team\\D - Balanced Team.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "D - Balanced Team.cpp",
+              "DocumentMoniker": "D:\\D - Balanced Team\\D - Balanced Team\\D - Balanced Team.cpp",
+              "RelativeDocumentMoniker": "D - Balanced Team\\D - Balanced Team.cpp",
+              "ToolTip": "D:\\D - Balanced Team\\D - Balanced Team\\D - Balanced Team.cpp",
+              "RelativeToolTip": "D - Balanced Team\\D - Balanced Team.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T01:03:06.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

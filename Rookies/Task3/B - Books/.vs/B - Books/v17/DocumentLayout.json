@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B - Books\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8713937-D5E7-44BB-B91E-5FE2A152051E}|B - Books\\B - Books.vcxproj|D:\\B - Books\\B - Books\\B - Books.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8713937-D5E7-44BB-B91E-5FE2A152051E}|B - Books\\B - Books.vcxproj|solutionrelative:B - Books\\B - Books.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B - Books.cpp",
+              "DocumentMoniker": "D:\\B - Books\\B - Books\\B - Books.cpp",
+              "RelativeDocumentMoniker": "B - Books\\B - Books.cpp",
+              "ToolTip": "D:\\B - Books\\B - Books\\B - Books.cpp",
+              "RelativeToolTip": "B - Books\\B - Books.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T23:43:42.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
