@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\F - Fibonacci Numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A72855A1-15E5-40E6-83A9-B73397C2A33E}|F - Fibonacci Numbers\\F - Fibonacci Numbers.vcxproj|D:\\F - Fibonacci Numbers\\F - Fibonacci Numbers\\F - Fibonacci Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A72855A1-15E5-40E6-83A9-B73397C2A33E}|F - Fibonacci Numbers\\F - Fibonacci Numbers.vcxproj|solutionrelative:F - Fibonacci Numbers\\F - Fibonacci Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F - Fibonacci Numbers.cpp",
+              "DocumentMoniker": "D:\\F - Fibonacci Numbers\\F - Fibonacci Numbers\\F - Fibonacci Numbers.cpp",
+              "RelativeDocumentMoniker": "F - Fibonacci Numbers\\F - Fibonacci Numbers.cpp",
+              "ToolTip": "D:\\F - Fibonacci Numbers\\F - Fibonacci Numbers\\F - Fibonacci Numbers.cpp",
+              "RelativeToolTip": "F - Fibonacci Numbers\\F - Fibonacci Numbers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T19:57:48.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

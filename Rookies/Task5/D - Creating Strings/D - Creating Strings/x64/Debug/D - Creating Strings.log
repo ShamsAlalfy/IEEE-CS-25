@@ -1,0 +1,3 @@
+﻿  D - Creating Strings.cpp
+D:\D - Creating Strings\D - Creating Strings\D - Creating Strings.cpp(27,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  D - Creating Strings.vcxproj -> D:\D - Creating Strings\x64\Debug\D - Creating Strings.exe

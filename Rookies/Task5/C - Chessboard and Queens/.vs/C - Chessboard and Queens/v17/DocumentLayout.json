@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C - Chessboard and Queens\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16C53C7C-4C1F-4008-A9B0-ECD047F2E737}|C - Chessboard and Queens\\C - Chessboard and Queens.vcxproj|D:\\C - Chessboard and Queens\\C - Chessboard and Queens\\C - Chessboard and Queens.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16C53C7C-4C1F-4008-A9B0-ECD047F2E737}|C - Chessboard and Queens\\C - Chessboard and Queens.vcxproj|solutionrelative:C - Chessboard and Queens\\C - Chessboard and Queens.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C - Chessboard and Queens.cpp",
+              "DocumentMoniker": "D:\\C - Chessboard and Queens\\C - Chessboard and Queens\\C - Chessboard and Queens.cpp",
+              "RelativeDocumentMoniker": "C - Chessboard and Queens\\C - Chessboard and Queens.cpp",
+              "ToolTip": "D:\\C - Chessboard and Queens\\C - Chessboard and Queens\\C - Chessboard and Queens.cpp",
+              "RelativeToolTip": "C - Chessboard and Queens\\C - Chessboard and Queens.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T19:53:50.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A - Apple Division\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56AA5E00-CAED-452D-ADD7-53A814BE584C}|A - Apple Division\\A - Apple Division.vcxproj|D:\\A - Apple Division\\A - Apple Division\\A - Apple Division.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56AA5E00-CAED-452D-ADD7-53A814BE584C}|A - Apple Division\\A - Apple Division.vcxproj|solutionrelative:A - Apple Division\\A - Apple Division.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A - Apple Division.cpp",
+              "DocumentMoniker": "D:\\A - Apple Division\\A - Apple Division\\A - Apple Division.cpp",
+              "RelativeDocumentMoniker": "A - Apple Division\\A - Apple Division.cpp",
+              "ToolTip": "D:\\A - Apple Division\\A - Apple Division\\A - Apple Division.cpp*",
+              "RelativeToolTip": "A - Apple Division\\A - Apple Division.cpp*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T19:51:54.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
